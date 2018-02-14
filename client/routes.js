@@ -44,7 +44,7 @@ class Routes extends Component {
             <Route component={Login} />
           </Switch>
         </Main>
-      </Router>
+      </Router>   
     )
   }
 }
